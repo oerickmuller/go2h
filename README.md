@@ -1,5 +1,11 @@
 # Go em (aproximadamente) 2 horas
 
+## Para iniciar o projeto
+
+- Siga os passos de criação do ambiente de desenvolvimento
+- Crie um diretório para o projeto
+- Rode o comando `go mod init go2h` para crir o arquivo base de configuração do projeto.
+
 ## Ambiente de desenvolvimento
 
 ### Editor de código
